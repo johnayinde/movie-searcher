@@ -12,7 +12,7 @@ A modern React application built with Vite that allows users to search for movie
 ## Prerequisites
 
 - Node.js (v14 or later)
-- npm or yarn
+- yarn
 
 ## Setup Instructions
 
